@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Alexander Vershinin](https://up.htmlacademy.ru/javascript-individual/1/user/1528443).
-* Наставник: `Алексей Хабиров`(https://htmlacademy.ru/profile/alex_khab).
+* Наставник: [Алексей Хабиров](https://htmlacademy.ru/profile/alex_khab).
 
 ---
 
